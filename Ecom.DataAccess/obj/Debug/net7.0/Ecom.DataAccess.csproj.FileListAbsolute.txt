@@ -1,0 +1,17 @@
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.DataAccess.deps.json
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.DataAccess.dll
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.DataAccess.pdb
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.csproj.AssemblyReference.cache
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.AssemblyInfoInputs.cache
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.AssemblyInfo.cs
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.csproj.CoreCompileInputs.cache
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.dll
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\refint\Ecom.DataAccess.dll
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.pdb
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\ref\Ecom.DataAccess.dll
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.DataAccess.runtimeconfig.json
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.Models.dll
+D:\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.Models.pdb
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.csproj.CopyComplete
+D:\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.deps.json
+D:\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.dll
+D:\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.pdb
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.AssemblyReference.cache
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfoInputs.cache
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfo.cs
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.CoreCompileInputs.cache
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.dll
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\refint\Ecom.Utilities.dll
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.pdb
+D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\ref\Ecom.Utilities.dll
