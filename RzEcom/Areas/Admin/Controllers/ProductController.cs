@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using Ecom.DataAccess.Data;
 using Ecom.DataAccess.Repository.IRepository;
 using Ecom.DataAccess.Repository;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Ecom.Models.ViewModels;
 
 namespace RzEcom.Areas.Admin.Controllers
 {
@@ -10,9 +12,11 @@ namespace RzEcom.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-        public ProductController(IUnitOfWork unitOfWork)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
             _unitOfWork = unitOfWork;
+            _webHostEnvironment = webHostEnvironment;
         }
         public IActionResult Index()
         {
@@ -20,60 +24,64 @@ namespace RzEcom.Areas.Admin.Controllers
             return View(productList);
         }
 
-        public IActionResult Create()
+        public IActionResult Upsert(int? id)
         {
-            return View();
-        }
+          
+            ProductVM productVM = new()
+            {
+                CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+              
+                }),
+                Product = new Product()
+            };
+            if(id == null || id == 0)
+            {
+                return View(productVM);
+            }
+            else
+            {
+                productVM.Product = _unitOfWork.Product.Get(u => u.Id == id);
+                return View(productVM);
+            }
+}
         [HttpPost]
-        public IActionResult Create(Product product)
-        {
-            //if(category.Name == category.DisplayOrder.ToString())
-            //{
-            //   ModelState.AddModelError("name", "The Display Order cannot exactly match with the Name.");
-            // }
+        public IActionResult Upsert(ProductVM productVM, IFormFile? file)
+        {          
 
             if (ModelState.IsValid)
             {
-                _unitOfWork.Product.Add(product);
-                _unitOfWork.Save();
-                TempData["success"] = "Product created successfully!";
-                return Redirect("Index");
-            }
+                string wwwRootPath = _webHostEnvironment.WebRootPath;
+                if (file != null)
+                {
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                    string productPath = Path.Combine(wwwRootPath, @"images\product");
 
-            return View();
-        }
-        public IActionResult Edit(int? id, Product product)
-        {
-            if (id == null || id == 0)
-            {
-                return NotFound();
-            }
-            product = _unitOfWork.Product.Get(c => c.Id == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-            return View(product);
-        }
-        [HttpPost]
-        public IActionResult Edit(Product product)
-        {
-            //if(category.Name == category.DisplayOrder.ToString())
-            //{
-            //   ModelState.AddModelError("name", "The Display Order cannot exactly match with the Name.");
-            // }
+                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
+                    {
+                        file.CopyTo(fileStream);
+                    }
 
-            if (ModelState.IsValid)
-            {
-                _unitOfWork.Product.Update(product);
+                    productVM.Product.ImageUrl = @"\images\product\" + fileName;
+                }
+
+                _unitOfWork.Product.Add(productVM.Product);
                 _unitOfWork.Save();
-                TempData["success"] = "Product updated successfully!";
+                TempData["success"] = "Product created successfully";
                 return RedirectToAction("Index");
             }
-
-            return View();
+            else
+            {
+                productVM.CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
+                return View(productVM);
+            }
         }
-
         public IActionResult Delete(int? id, Product product)
         {
             if (id == null || id == 0)
