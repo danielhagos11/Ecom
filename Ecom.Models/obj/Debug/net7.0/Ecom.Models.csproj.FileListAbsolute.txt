@@ -10,3 +10,15 @@ D:\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.dll
 D:\Ecom\Ecom.Models\obj\Debug\net7.0\refint\Ecom.Models.dll
 D:\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.pdb
 D:\Ecom\Ecom.Models\obj\Debug\net7.0\ref\Ecom.Models.dll
+F:\PS\Ecom\Ecom\Ecom.Models\bin\Debug\net7.0\Ecom.Models.deps.json
+F:\PS\Ecom\Ecom\Ecom.Models\bin\Debug\net7.0\Ecom.Models.dll
+F:\PS\Ecom\Ecom\Ecom.Models\bin\Debug\net7.0\Ecom.Models.pdb
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.csproj.AssemblyReference.cache
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.AssemblyInfoInputs.cache
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.AssemblyInfo.cs
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.csproj.CoreCompileInputs.cache
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.dll
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\refint\Ecom.Models.dll
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\Ecom.Models.pdb
+F:\PS\Ecom\Ecom\Ecom.Models\obj\Debug\net7.0\ref\Ecom.Models.dll

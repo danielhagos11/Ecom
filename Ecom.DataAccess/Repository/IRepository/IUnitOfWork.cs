@@ -11,6 +11,11 @@ namespace Ecom.DataAccess.Repository.IRepository
     {
         ICategory Category { get; }
         IProduct Product { get; }
+        ICompany Company { get; }
+        IShoppingCart ShoppingCart { get; }
+        IApplicationUser ApplicationUser { get; }
+        IOrderDetail OrderDetail { get; }
+        IOrderHeader OrderHeader { get; }
         void Save();
     }
 }

@@ -11,7 +11,8 @@ using System.Threading.Tasks;
 
 namespace Ecom.DataAccess.Repository
 {
-    public class CategoryRepository : Repository<Category>, DataAccess.Repository.IRepository.ICategory
+    
+    public class CategoryRepository : Repository<Category>, ICategory
     {
         private readonly ApplicationDbContext _db;
         public CategoryRepository(ApplicationDbContext db) : base(db)

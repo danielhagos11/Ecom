@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecom\\RzEcom\\RzEcom.csproj": {}
+    "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj": {}
   },
   "projects": {
-    "D:\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
+    "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
         "projectName": "Ecom.DataAccess",
-        "projectPath": "D:\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\danha\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom\\Ecom.DataAccess\\obj\\",
+        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
+        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
-                "projectPath": "D:\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
+              "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
               }
             }
           }
@@ -47,6 +44,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -66,6 +71,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -84,24 +93,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+    "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
         "projectName": "Ecom.Models",
-        "projectPath": "D:\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
-        "packagesPath": "C:\\Users\\danha\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom\\Ecom.Models\\obj\\",
+        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
+        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -127,9 +133,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -148,24 +162,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ecom\\RzEcom\\RzEcom.csproj": {
+    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom\\RzEcom\\RzEcom.csproj",
-        "projectName": "RzEcom",
-        "projectPath": "D:\\Ecom\\RzEcom\\RzEcom.csproj",
-        "packagesPath": "C:\\Users\\danha\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom\\RzEcom\\obj\\",
+        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectName": "Ecom.Utilities",
+        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
+        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,15 +184,86 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+        "projectName": "RzEcom",
+        "projectPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+        "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
+        "outputPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
-                "projectPath": "D:\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
+              "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
+                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
+              },
+              "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
               }
             }
           }
@@ -196,6 +278,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -216,9 +310,17 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[43.0.0, )"
             }
           },
           "imports": [
@@ -240,7 +342,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

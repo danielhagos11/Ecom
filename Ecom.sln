@@ -5,11 +5,11 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RzEcom", "RzEcom\RzEcom.csproj", "{7770A5C3-9AD8-421E-B7DF-EFFD519639B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.DataAccess", "Ecom.DataAccess\Ecom.DataAccess.csproj", "{2E8CD8D6-0613-4F19-B2CC-D26514CFB820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.DataAccess", "Ecom.DataAccess\Ecom.DataAccess.csproj", "{2E8CD8D6-0613-4F19-B2CC-D26514CFB820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Models", "Ecom.Models\Ecom.Models.csproj", "{03A6F849-DA3C-4484-B7A2-7AD35C3D2D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.Models", "Ecom.Models\Ecom.Models.csproj", "{03A6F849-DA3C-4484-B7A2-7AD35C3D2D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecom.Utilities", "Ecom.Utilities\Ecom.Utilities.csproj", "{EB4E87AE-DD17-4DC5-A1B4-311BC7B3D1EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecom.Utilities", "Ecom.Utilities\Ecom.Utilities.csproj", "{EB4E87AE-DD17-4DC5-A1B4-311BC7B3D1EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

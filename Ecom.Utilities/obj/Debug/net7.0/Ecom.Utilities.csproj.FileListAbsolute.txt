@@ -10,3 +10,15 @@ D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.dll
 D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\refint\Ecom.Utilities.dll
 D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.pdb
 D:\Ecom\Ecom.Utilities\obj\Debug\net7.0\ref\Ecom.Utilities.dll
+F:\PS\Ecom\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.deps.json
+F:\PS\Ecom\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.dll
+F:\PS\Ecom\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.pdb
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.AssemblyReference.cache
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfoInputs.cache
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfo.cs
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.CoreCompileInputs.cache
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.dll
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\refint\Ecom.Utilities.dll
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.pdb
+F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\ref\Ecom.Utilities.dll

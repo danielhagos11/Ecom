@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
+    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
   },
   "projects": {
-    "D:\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "projectName": "Ecom.Utilities",
-        "projectPath": "D:\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
-        "packagesPath": "C:\\Users\\danha\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecom\\Ecom.Utilities\\obj\\",
+        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
+        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +39,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
