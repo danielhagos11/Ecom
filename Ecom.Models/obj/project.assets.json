@@ -6999,11 +6999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+      "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
       "projectName": "Ecom.Models",
-      "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+      "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
       "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-      "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\obj\\",
+      "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",

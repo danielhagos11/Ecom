@@ -13023,11 +13023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+      "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj",
       "projectName": "RzEcom",
-      "projectPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+      "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj",
       "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-      "outputPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\obj\\",
+      "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13044,11 +13044,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
-              "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
+            "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
             },
-            "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
-              "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
+            "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+              "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
             }
           }
         }

@@ -22,3 +22,15 @@ F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.dll
 F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\refint\Ecom.Utilities.dll
 F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.pdb
 F:\PS\Ecom\Ecom\Ecom.Utilities\obj\Debug\net7.0\ref\Ecom.Utilities.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.deps.json
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\bin\Debug\net7.0\Ecom.Utilities.pdb
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.AssemblyReference.cache
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfoInputs.cache
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.AssemblyInfo.cs
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\refint\Ecom.Utilities.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\Ecom.Utilities.pdb
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.Utilities\obj\Debug\net7.0\ref\Ecom.Utilities.dll

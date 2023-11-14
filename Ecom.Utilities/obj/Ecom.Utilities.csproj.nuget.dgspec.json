@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
   },
   "projects": {
-    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "projectName": "Ecom.Utilities",
-        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",

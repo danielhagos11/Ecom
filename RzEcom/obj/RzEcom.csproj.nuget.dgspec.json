@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj": {}
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj": {}
   },
   "projects": {
-    "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
         "projectName": "Ecom.DataAccess",
-        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+        "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
         "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
-                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
+              "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+                "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
         "projectName": "Ecom.Models",
-        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
         "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\obj\\",
+        "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "projectName": "Ecom.Utilities",
-        "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-        "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,14 +235,14 @@
         }
       }
     },
-    "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj": {
+    "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+        "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj",
         "projectName": "RzEcom",
-        "projectPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\RzEcom.csproj",
+        "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj",
         "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-        "outputPath": "F:\\PS\\Ecom\\Ecom\\RzEcom\\obj\\",
+        "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,11 +259,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
-                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
+              "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj"
               },
-              "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
-                "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
+              "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+                "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
               }
             }
           }

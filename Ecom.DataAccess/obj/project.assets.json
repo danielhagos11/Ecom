@@ -8668,11 +8668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
       "projectName": "Ecom.DataAccess",
-      "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+      "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
       "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-      "outputPath": "F:\\PS\\Ecom\\Ecom\\Ecom.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8689,8 +8689,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
-              "projectPath": "F:\\PS\\Ecom\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
+            "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+              "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
             }
           }
         }
