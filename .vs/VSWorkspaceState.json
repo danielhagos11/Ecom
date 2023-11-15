@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RzEcom",
+    "\\RzEcom\\Areas",
+    "\\RzEcom\\Areas\\Customer",
+    "\\RzEcom\\Areas\\Customer\\Controllers"
   ],
-  "SelectedNode": "\\Ecom.sln",
+  "SelectedNode": "\\RzEcom\\Areas\\Customer\\Controllers\\CartController.cs",
   "PreviewInSolutionExplorer": false
 }

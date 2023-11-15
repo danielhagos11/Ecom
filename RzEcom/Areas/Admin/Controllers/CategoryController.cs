@@ -3,10 +3,13 @@ using Microsoft.AspNetCore.Mvc;
 using Ecom.DataAccess.Data;
 using Ecom.DataAccess.Repository.IRepository;
 using Ecom.DataAccess.Repository;
+using Ecom.Utilities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RzEcom.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
