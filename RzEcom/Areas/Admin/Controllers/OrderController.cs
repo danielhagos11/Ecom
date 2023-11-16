@@ -242,7 +242,7 @@ namespace RzEcom.Areas.Admin.Controllers
                     _unitOfWork.OrderHeader.UpdateStatus(orderHeaderId, orderHeader.OrderStatus, SD.PaymentStatusApproved);
                     _unitOfWork.Save();
                 }
-
+                HttpContext.Session.Clear();
 
             }
 

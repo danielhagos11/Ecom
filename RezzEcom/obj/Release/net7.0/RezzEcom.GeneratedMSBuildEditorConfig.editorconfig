@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RezzEcom
 build_property.RootNamespace = RezzEcom
-build_property.ProjectDir = C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\RezzEcom\
+build_property.ProjectDir = C:\Users\640458\Source\Repos\danielhagos11\Ecom\RezzEcom\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\RezzEcom
+build_property.MSBuildProjectDirectory = C:\Users\640458\Source\Repos\danielhagos11\Ecom\RezzEcom
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Create.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Delete.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Edit.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Index.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Error.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Index.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Privacy.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/_ViewImports.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/_ViewStart.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DTesfagabr/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Shared/_Layout.cshtml]
+[C:/Users/640458/Source/Repos/danielhagos11/Ecom/RezzEcom/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8kjj2huya0
