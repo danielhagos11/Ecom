@@ -4686,6 +4686,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Ecom.Models": "1.0.0",
+          "Ecom.Utilities": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.3",
           "Microsoft.EntityFrameworkCore": "7.0.10",

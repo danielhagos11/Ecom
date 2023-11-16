@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
                 "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj"
+              },
+              "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+                "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj"
               }
             }
           }

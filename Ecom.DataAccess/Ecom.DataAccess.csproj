@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ecom.Models\Ecom.Models.csproj" />
+    <ProjectReference Include="..\Ecom.Utilities\Ecom.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

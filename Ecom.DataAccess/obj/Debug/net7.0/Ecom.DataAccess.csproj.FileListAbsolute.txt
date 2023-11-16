@@ -49,3 +49,5 @@ C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\obj\Debug\ne
 C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.pdb
 C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\obj\Debug\net7.0\Ecom.DataAccess.genruntimeconfig.cache
 C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\obj\Debug\net7.0\ref\Ecom.DataAccess.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.Utilities.dll
+C:\Users\DTesfagabr\Source\Repos\danielhagos11\Ecom\Ecom.DataAccess\bin\Debug\net7.0\Ecom.Utilities.pdb
