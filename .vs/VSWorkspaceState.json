@@ -3,9 +3,15 @@
     "",
     "\\RzEcom",
     "\\RzEcom\\Areas",
+    "\\RzEcom\\Areas\\Admin",
+    "\\RzEcom\\Areas\\Admin\\Controllers",
+    "\\RzEcom\\Areas\\Admin\\Views",
+    "\\RzEcom\\Areas\\Admin\\Views\\Order",
     "\\RzEcom\\Areas\\Customer",
-    "\\RzEcom\\Areas\\Customer\\Controllers"
+    "\\RzEcom\\Areas\\Customer\\Controllers",
+    "\\RzEcom\\Views",
+    "\\RzEcom\\Views\\Shared"
   ],
-  "SelectedNode": "\\RzEcom\\Areas\\Customer\\Controllers\\CartController.cs",
+  "SelectedNode": "\\RzEcom\\Areas\\Admin\\Controllers\\OrderController.cs",
   "PreviewInSolutionExplorer": false
 }
