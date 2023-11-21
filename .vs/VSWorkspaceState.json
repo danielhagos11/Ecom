@@ -1,6 +1,5 @@
 {
   "ExpandedNodes": [
-<<<<<<< HEAD
     "",
     "\\RzEcom",
     "\\RzEcom\\Areas",
@@ -13,10 +12,6 @@
     "\\RzEcom\\Views",
     "\\RzEcom\\Views\\Shared"
   ],
-  "SelectedNode": "\\RzEcom\\Areas\\Admin\\Controllers\\OrderController.cs",
-=======
-    ""
-  ],
->>>>>>> a3f6e2d9d273223a0e4a07de130735894f3f1034
+  "SelectedNode": "\\Ecom.sln",
   "PreviewInSolutionExplorer": false
 }
