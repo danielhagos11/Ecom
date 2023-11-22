@@ -52,7 +52,7 @@ namespace Ecom.DataAccess.DbInitializer
                 _userManager.CreateAsync(new ApplicationUser
                 {
                     UserName = "admin@gmail.com",
-                    Email = "admin@danitech.com",
+                    Email = "admin@gmail.com",
                     Name = "Daniel Tesfagabr",
                     PhoneNumber = "1112223333",
                     StreetAddress = "test 123 Ave",
@@ -62,7 +62,7 @@ namespace Ecom.DataAccess.DbInitializer
                 }, "Danihagos1.").GetAwaiter().GetResult();
 
 
-                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@danitech.com");
+                ApplicationUser user = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@gmail.com");
                 _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
             }
         }
