@@ -4,7 +4,6 @@
     "\\RzEcom",
     "\\RzEcom\\Areas",
     "\\RzEcom\\Areas\\Admin",
-    "\\RzEcom\\Areas\\Admin\\Controllers",
     "\\RzEcom\\Areas\\Admin\\Views",
     "\\RzEcom\\Areas\\Admin\\Views\\Order",
     "\\RzEcom\\Areas\\Customer",
