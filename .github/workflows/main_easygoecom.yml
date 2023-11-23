@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'easygoecom'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EABE8EC64E8945568636BA53AB002833 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35605EBAFB354B65A4B0F17261FC710E }}
           package: .
