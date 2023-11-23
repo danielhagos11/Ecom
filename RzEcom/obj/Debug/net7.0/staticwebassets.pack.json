@@ -1,315 +1,319 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RzEcom.bundle.scp.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RzEcom.bundle.scp.css",
       "PackagePath": "staticwebassets\\RzEcom.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\book.png",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\book.png",
       "PackagePath": "staticwebassets\\images\\book.png"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\cotton candy back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\checkout.jpg",
+      "PackagePath": "staticwebassets\\images\\checkout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\cotton candy back.jpg",
       "PackagePath": "staticwebassets\\images\\cotton candy back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\cotton candy.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\cotton candy.jpg",
       "PackagePath": "staticwebassets\\images\\cotton candy.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\dark skies back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\dark skies back.jpg",
       "PackagePath": "staticwebassets\\images\\dark skies back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\dark skies.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\dark skies.jpg",
       "PackagePath": "staticwebassets\\images\\dark skies.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\fortune of time back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\fortune of time back.jpg",
       "PackagePath": "staticwebassets\\images\\fortune of time back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\fortune of time.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\fortune of time.jpg",
       "PackagePath": "staticwebassets\\images\\fortune of time.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\lawn_leaf.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\lawn_leaf.jpg",
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\leaves and wonder back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\leaves and wonder back.jpg",
       "PackagePath": "staticwebassets\\images\\leaves and wonder back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\leaves and wonders.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\leaves and wonders.jpg",
       "PackagePath": "staticwebassets\\images\\leaves and wonders.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\product\\6c324482-1161-453d-a795-ddd152082830.png",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\product\\6c324482-1161-453d-a795-ddd152082830.png",
       "PackagePath": "staticwebassets\\images\\product\\6c324482-1161-453d-a795-ddd152082830.png"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\product\\80383c8e-53d0-41e3-b112-718c66b0d046.png",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\product\\80383c8e-53d0-41e3-b112-718c66b0d046.png",
       "PackagePath": "staticwebassets\\images\\product\\80383c8e-53d0-41e3-b112-718c66b0d046.png"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\product\\a57d8dd5-8607-4ff5-9b2d-4cf57880f9ad.png",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\product\\a57d8dd5-8607-4ff5-9b2d-4cf57880f9ad.png",
       "PackagePath": "staticwebassets\\images\\product\\a57d8dd5-8607-4ff5-9b2d-4cf57880f9ad.png"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\rock in the ocean back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\rock in the ocean back.jpg",
       "PackagePath": "staticwebassets\\images\\rock in the ocean back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\rock in the ocean.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\rock in the ocean.jpg",
       "PackagePath": "staticwebassets\\images\\rock in the ocean.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\vanish in the sunset back.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\vanish in the sunset back.jpg",
       "PackagePath": "staticwebassets\\images\\vanish in the sunset back.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\images\\vanish in the sunset.jpg",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\images\\vanish in the sunset.jpg",
       "PackagePath": "staticwebassets\\images\\vanish in the sunset.jpg"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
