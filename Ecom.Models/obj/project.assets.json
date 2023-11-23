@@ -6994,19 +6994,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DTesfagabr\\.nuget\\packages\\": {}
+    "C:\\Users\\640458\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+      "projectUniqueName": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
       "projectName": "Ecom.Models",
-      "projectPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
-      "packagesPath": "C:\\Users\\DTesfagabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DTesfagabr\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\obj\\",
+      "projectPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+      "packagesPath": "C:\\Users\\640458\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DTesfagabr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\640458\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7061,7 +7066,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
