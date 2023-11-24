@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VsbAMiCRmx0D7kNndZA+WCgiaJD8RVH6KES/ENNPapIIC2gNaYtZmWTYTp70B28a8338DjzBKiynjpZKgydT0w==",
+  "dgSpecHash": "54gbf2HVbUuynlmNEPlzNF/8KaOPwu75V4xjBzuc6EmHZoS+SI3bsTairSgxSyd9n1YMtOnXrONonTlwdYyEuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\640458\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\640458\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

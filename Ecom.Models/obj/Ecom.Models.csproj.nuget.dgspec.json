@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {}
+    "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
+    "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "projectUniqueName": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
         "projectName": "Ecom.Models",
-        "projectPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
+        "projectPath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\Ecom.Models.csproj",
         "packagesPath": "C:\\Users\\640458\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Models\\obj\\",
+        "outputPath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

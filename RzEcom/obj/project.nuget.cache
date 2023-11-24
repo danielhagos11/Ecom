@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d4c40L6B7onqCrqox9EIE0CnUU2b1kMUKmMjYnoq1vo2u/w4vXIwlm2OyRbWE6N1kKncx+HWEcJvY0PpEpyDDA==",
+  "dgSpecHash": "chnUbuN2IpTE4UAiJA+TpiEBsFyWCFb+Uk9b3L+3f5Y8Ml3DNxwyJHQAOrzsZWynS6p/cM+BNl+3D5mp2ldKjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\RzEcom\\RzEcom.csproj",
+  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\RzEcom\\RzEcom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\640458\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\640458\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

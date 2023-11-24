@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
+    "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
+    "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "projectName": "Ecom.Utilities",
-        "projectPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
+        "projectPath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\Ecom.Utilities.csproj",
         "packagesPath": "C:\\Users\\640458\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,47 @@
+﻿@model List<BlogPost>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h3 class="display-4">Public Holidays Finder</h3>
+    <center>
+        <form asp-controller="Home" asp-action="Index">
+            <table>
+                <tr>
+                    <td>Country Code: </td>
+                    <td><input type="text" id="txtCountryCode" name="CountryCode" /></td>
+                    <td>Year: </td>
+                    <td><input type="text" id="txtYear" name="Year" /></td>
+                    <td><input type="submit" value="Submit" /></td>
+                </tr>
+            </table>
+            <hr />
+        </form>
+    </center>
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Body</th>
+                    <th>Written By</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                       
+                        <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Body)</td>
+                        <td>@Html.DisplayFor(modelItem => item.UserId)</td>
+                     
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+</div>

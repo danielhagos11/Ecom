@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\RzEcom",
-    "\\RzEcom\\Areas",
-    "\\RzEcom\\Areas\\Admin",
-    "\\RzEcom\\Areas\\Admin\\Views",
-    "\\RzEcom\\Areas\\Admin\\Views\\Order",
-    "\\RzEcom\\Areas\\Customer",
-    "\\RzEcom\\Areas\\Customer\\Controllers",
-    "\\RzEcom\\Views",
-    "\\RzEcom\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\Ecom.sln",
   "PreviewInSolutionExplorer": false
 }

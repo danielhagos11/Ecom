@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Ecom.Utilities;
 using Stripe;
 using Ecom.DataAccess.DbInitializer;
+using Ecom.DataAccess.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,6 +35,7 @@ builder.Services.AddSession(options =>
 builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddSingleton<IBlogPosyApiService, BlogPostApiService>();
 
 builder.Services.AddScoped<IEmailSender, EmailSender>();
 var app = builder.Build();

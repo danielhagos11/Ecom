@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nsBSc6/8JcmSyk+GirPdBdgAkBNn4QzWTl+ByXnZ/04Pt9pQAf70aoeVA7q7JXk0hJSjenqjF2K5EAlOSbwrUQ==",
+  "dgSpecHash": "3KMfdiYb7K+4Bu1t8kdcuB0y60Sw8sdFicCEk3YvpU2VNRCV3MPuiPYypBetP/lvOMqMO1Yn6XBClvTHuG8ybA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\640458\\Source\\Repos\\danielhagos11\\Ecom\\Ecom.DataAccess\\Ecom.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\640458\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\640458\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
