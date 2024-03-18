@@ -40,12 +40,21 @@ jobs:
     environment:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+    permissions:
+      id-token: write #This is required for requesting the JWT
 
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v3
         with:
           name: .net-app
+      
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_B02F9EBDDA9F4DEC980AC702BE778F12 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_44147B10DF7E4BD988410023BBA814A9 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_C3A14498DFCE4388A3124CA00B4CB0EE }}
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -53,5 +62,5 @@ jobs:
         with:
           app-name: 'easygoecom'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35605EBAFB354B65A4B0F17261FC710E }}
           package: .
+          
