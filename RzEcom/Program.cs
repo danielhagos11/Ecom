@@ -11,6 +11,8 @@ using Ecom.DataAccess.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddApplicationInsightsTelemetry();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(o => o.UseSqlServer(
@@ -38,6 +40,7 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<IBlogPosyApiService, BlogPostApiService>();
 
 builder.Services.AddScoped<IEmailSender, EmailSender>();
+builder.Services.AddApplicationInsightsTelemetry(builder.Configuration["APPLICATIONINSIGHTS_CONNECTION_STRING"]);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -4,6 +4,8 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/cec79a2b-6da2-465a-bd2d-0606beebc26d/resourceGroups/EasyGoEcom/providers/microsoft.insights/components/RzEcomAppInsight</ApplicationInsightsResourceId>
+    <UserSecretsId>8899b364-458a-4c24-a05d-30663bac66f4</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.10" />
