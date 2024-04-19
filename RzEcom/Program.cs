@@ -11,7 +11,7 @@ using Ecom.DataAccess.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddApplicationInsightsTelemetry();
+builder.Services.AddApplicationInsightsTelemetry(builder.Configuration.GetSection("ApplicationInsights"));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
