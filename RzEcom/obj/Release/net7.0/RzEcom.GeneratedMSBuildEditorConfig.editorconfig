@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RzEcom
 build_property.RootNamespace = RzEcom
-build_property.ProjectDir = C:\Users\640458\Source\Repos\danielhagos11\Ecom\RzEcom\
+build_property.ProjectDir = C:\Users\640458\source\repos\danielhagos11\Ecom\RzEcom\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\640458\Source\Repos\danielhagos11\Ecom\RzEcom
+build_property.MSBuildProjectDirectory = C:\Users\640458\source\repos\danielhagos11\Ecom\RzEcom
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/640458/Source/Repos/danielhagos11/Ecom/RzEcom/Areas/Admin/Views/Category/Create.cshtml]

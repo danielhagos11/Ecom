@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RzEcom",
+    "\\RzEcom\\Views",
+    "\\RzEcom\\Views\\Shared"
   ],
+  "SelectedNode": "\\RzEcom\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
