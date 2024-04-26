@@ -19,6 +19,7 @@ namespace Ecom.Utilities
 		public const string StatusShipped = "Shipped";
 		public const string StatusCancelled = "Cancelled";
 		public const string StatusRefunded = "Refunded";
+	        public const string StatusRefunded = "Refundeddd";
 
 		public const string PaymentStatusPending = "Pending";
 		public const string PaymentStatusApproved = "Approved";
